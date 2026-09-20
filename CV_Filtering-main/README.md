@@ -8,5 +8,5 @@ The output below shows the original image and the results obtained using the 3×
 
 # Author
 
-**Moraboina Fanindhra Yadavgit commit -m**
+**Moraboina Fanindhra Yadavgit commit **
 
