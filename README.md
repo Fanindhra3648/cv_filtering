@@ -8,4 +8,4 @@ The output below shows the original image and the results obtained using the 3×
 
 # Author
 
-**Surya Prakash Balusu**
+**Moraboina Fanindhra Yadav**
